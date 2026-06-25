@@ -1,0 +1,7 @@
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\bin\Debug\ProjetoMotoboys_Myrella.exe.config
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\bin\Debug\ProjetoMotoboys_Myrella.exe
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\bin\Debug\ProjetoMotoboys_Myrella.pdb
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\obj\Debug\ProjetoMotoboys_Myrella.csproj.AssemblyReference.cache
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\obj\Debug\ProjetoMotoboys_Myrella.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\obj\Debug\ProjetoMotoboys_Myrella.exe
+C:\Users\jaque\Downloads\ProjetoMotoboys_Myrella\ProjetoMotoboys_Myrella\obj\Debug\ProjetoMotoboys_Myrella.pdb
